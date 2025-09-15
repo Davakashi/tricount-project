@@ -12,7 +12,7 @@
 - Хэрэглэгчдэд ойлгомжтой, хялбар интерфэйстэй систем хөгжүүлэх.  
 
 ## Технологи
-- Frontend: React / Next.js /React native 
+- Frontend: React / Next.js / React native 
 - Backend: Node.js / Nestjs  
 - Database: MongoDB / PostgreSQL  
 - Version control: Git, GitHub
