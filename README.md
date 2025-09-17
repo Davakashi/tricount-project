@@ -16,3 +16,22 @@
 - Backend: Node.js / Nestjs  
 - Database: MongoDB / PostgreSQL  
 - Version control: Git, GitHub
+
+## Sprints
+  - Sprint 1:  (24sp) Хэрэглэгчид шинэ бүртгэл үүсгэх, системд нэвтрэх, групп үүсгэж найзаа урих, зардал гар аргаар нэмэх болон балансын товч мэдээллийг харах боломжийг бүтээх
+  - Sprint 2:
+  - Sprint 3:
+## Definition of Done (DoD)
+- Код нь GitHub дээр commit, push хийгдсэн байх
+- Code review хийгдсэн, шаардлагатай бол refactor хийсэн байх
+- Unit test / integration test-үүд амжилттай гүйцэтгэсэн байх (жишээ нь Jest, React Testing Library гэх мэт)
+- Functionality нь acceptance criteria-г хангаж байх
+- UI/UX алдаагүй ажиллаж, хэрэглэгчийн урсгал эвдрэлгүй байх
+- Major bug / blocker байхгүй байх
+- Шаардлагатай тохиолдолд documentation (readme эсвэл API usage) шинэчлэгдсэн байх
+- Шинэ хэрэглэгч бүртгэх үед өгөгдөл DB-д найдвартай хадгалагдах
+- Нэвтрэлт authentication/authorization-оор аюулгүй хийгдэх (жишээ: JWT эсвэл session)
+- Групп үүсгэх, найз урих, зардал нэмэх зэрэг үндсэн урсгал бүр e2e test-ээр баталгаажсан байх
+- Зардлын тооцоолол зөв баланс гаргаж байгаа нь баталгаажсан байх
+
+  
