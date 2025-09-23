@@ -24,13 +24,13 @@
 ## Definition of Done (DoD)
 - Код нь GitHub дээр commit, push хийгдсэн байх
 - Code review хийгдсэн, шаардлагатай бол refactor хийсэн байх
-- Unit test / integration test-үүд амжилттай гүйцэтгэсэн байх (жишээ нь Jest, React Testing Library гэх мэт)
+- Unit test / integration test-үүд амжилттай гүйцэтгэсэн байх 
 - Functionality нь acceptance criteria-г хангаж байх
-- UI/UX алдаагүй ажиллаж, хэрэглэгчийн урсгал эвдрэлгүй байх
+- UI/UX алдаагүй ажиллаж
 - Major bug / blocker байхгүй байх
-- Шаардлагатай тохиолдолд documentation (readme эсвэл API usage) шинэчлэгдсэн байх
+- Шаардлагатай тохиолдолд documentation шинэчлэгдсэн байх
 - Шинэ хэрэглэгч бүртгэх үед өгөгдөл DB-д найдвартай хадгалагдах
-- Нэвтрэлт authentication/authorization-оор аюулгүй хийгдэх (жишээ: JWT эсвэл session)
+- Нэвтрэлт authentication/authorization-оор аюулгүй хийгдэх
 - Групп үүсгэх, найз урих, зардал нэмэх зэрэг үндсэн урсгал бүр e2e test-ээр баталгаажсан байх
 - Зардлын тооцоолол зөв баланс гаргаж байгаа нь баталгаажсан байх
 
